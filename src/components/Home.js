@@ -15,6 +15,7 @@ const Home = () => {
                 <Link to='/about'><li className='mx-4 hover:bg-white px-8 text-lg py-1  hover:text-black hover:rounded-lg cursor-pointer'>About</li></Link>
                 <Link to='/gallery'><li className='mx-4 hover:bg-white px-8 text-lg py-1  hover:text-black hover:rounded-lg cursor-pointer'>Gallery</li></Link>
                 <Link to='/contact'><li className='mx-4 hover:bg-white px-8 text-lg py-1  hover:text-black hover:rounded-lg cursor-pointer'>Contact Us</li></Link>
+                <Link to='/form'><li className='mx-4 hover:bg-white px-8 text-lg py-1  hover:text-black hover:rounded-lg cursor-pointer'>Add a Score</li></Link>
             </ul>
         </div>
     </div>
